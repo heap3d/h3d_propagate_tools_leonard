@@ -29,8 +29,8 @@ from h3d_propagate_tools.scripts.utilites import (
 
 
 COLOR_PROCESSED = 'orange'
-USERVAL_IGNORE_HIDDEN = 'h3d_propagate_ignore_hidden'
-USERVAL_REGEX_PATTERN = 'h3d_propagate_regex'
+USERVAL_IGNORE_HIDDEN = 'h3d_propagate_l_ignore_hidden'
+USERVAL_REGEX_PATTERN = 'h3d_propagate_l_regex'
 REGEX_PATTERN = r'^(.*?)[._ (d)]*[ ().\d]*\d*\)?$'
 
 
